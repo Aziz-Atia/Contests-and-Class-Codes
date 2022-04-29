@@ -1,0 +1,5 @@
+MOV CX,4
+MOV AX,1
+FACT:
+  MUL CX
+  LOOP FACT

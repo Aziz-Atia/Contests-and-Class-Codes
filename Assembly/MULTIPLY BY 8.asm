@@ -1,0 +1,3 @@
+MOV AX,3
+MOV CL,1
+SAL AX,CL
